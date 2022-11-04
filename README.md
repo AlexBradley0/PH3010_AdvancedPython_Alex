@@ -12,8 +12,6 @@ template_project_PH3010_advanced_python/
 ├── .github/
 │   └── workflows/
 │              └── python_test.yml
-
-
 ├── docs/
 │   └── ../
 │   └── workflows/
